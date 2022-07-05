@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zachariah "Ziggy" Weaver 
-- 👀 I’m interested in 
+- 👀 I’m interested in Java and Python Applications development
 - 🌱 I’m currently learning Spring Boot & PostGreSQL
 - 📫 How to reach me: Send an email to zachariahjweaver@gmail.com
 
