@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zachariah "Ziggy" Weaver 
+- 👋 Hi, I’m Zachariah Weaver 
 - 👀 I’m interested in Java and Python Applications development
 - 🌱 I’m currently learning Spring Boot and JavaScript
 - 📫 How to reach me: Send an email to zachariahjweaver@gmail.com
