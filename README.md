@@ -26,5 +26,5 @@ Explore my repositories to see my coding skills in action. Feel free to reach ou
 
 ### Contact
 
--[LinkedIn]([LinkedIn URL](https://www.linkedin.com/in/zachariahweaver/))
--[Email](mailto:zachariahjweaver@gmail.com)
+- [LinkedIn]([LinkedIn URL](https://www.linkedin.com/in/zachariahweaver/)
+- [Email](mailto:zachariahjweaver@gmail.com)
