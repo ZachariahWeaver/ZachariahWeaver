@@ -9,7 +9,7 @@ Passionate software developer and recent Computer Science graduate, eager to mak
    - 300+ downloads and a consistent 5-star rating from users.
 
 2. **YTAuto - Desktop Application**
-   - Streamlining video content creation, reducing process time by 35%.
+   - Streamlining video content creation, reducing process time by 76%.
    - Built with C#/.NET and WPF for a user-friendly interface.
 
 3. **trivia-ai.com - Website**
